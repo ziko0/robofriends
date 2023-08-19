@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NINTENDO';
+    src: url(Pretendo.ttf);
+}
+
+h1{
+    font-family: 'Pretendo.ttf';
+    font-size: 3em;
+}
